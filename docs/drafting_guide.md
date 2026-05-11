@@ -12,7 +12,7 @@ The [Mini Starter Cube](https://archidekt.com/decks/22490665/mini_starter_cube) 
 2. Each player should then select two cards from their received set, before passing the remaining to the player on their left - repeat until all received cards have been selected.
 3. Each player should then receive a second set of 14 randomly selected cards from the cube, repeating the process until all cards from the cube have been selected.
 
-By the end of this process each player should have a minimum of 42 cards (+ any number of basic lands) from which to build a deck, however players should have some idea of the deck they are trying to make during drafting. This does not mean rigidly sticking to a predetermined deck idea, but instead attempting to pick cards with a common theme or goal as guided by the remainder of this document. 
+By the end of this process each player should have a minimum of 42 cards (+ any number of basic lands) from which to build a 40 card deck, however players should have some idea of the deck they are trying to make during drafting. This does not mean rigidly sticking to a predetermined deck idea, but instead attempting to pick cards with a common theme or goal as guided by the remainder of this document. 
 
 ## Deck Buidling
 
