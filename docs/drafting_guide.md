@@ -7,12 +7,12 @@ The rest of this guide will walk players through exactly what to expect from the
 ## What is Drafting? 
 Draft is a term that broadly covers many Magic formats in which players create decks by taking turns selecting cards from a collective pool (MTG Wiki, 2025; Tolarian Community College, 2017). This collective pool might be a set number of purchased 'boosters' as is the case with Booster Draft or the more recently created Pick-Two Draft (Wizards of the Coast, 2026b; Wizards of the Coast, 2026c), however some players have created their own collections of cards to draft from, known as 'cubes' (MTG Wiki, 2026; Tolarian Community College, 2023).
 
-The [Mini Starter Cube](https://archidekt.com/decks/22490665/mini_starter_cube) is one such example of a cube. It is a comparatively small example (hence 'mini'), and is recommended for no more than 4 players. Whilst any rule-set might be used to draft the cube, the Pick-Two Draft (Wizards of the Coast, 2026c) approach is recommended, explained with the following points: 
+The [Mini Starter Cube](https://archidekt.com/decks/22490665/mini_starter_cube) is one such example. It is a comparatively small cube (hence 'mini') suggested for no more than 4 players. Whilst any rule-set might be used to draft the cube, the Pick-Two Draft (Wizards of the Coast, 2026c) approach is recommended, explained with the following points: 
 1. Each player should receive 14 randomly selected cards from the cube. 
-2. Each player should then select two cards from the cards they have received, before passing the remaining to the player on their left - repeat until all received cards have been selected.
+2. Each player should then select two cards from their received set, before passing the remaining to the player on their left - repeat until all received cards have been selected.
 3. Each player should then receive a second set of 14 randomly selected cards from the cube, repeating the process until all cards from the cube have been selected.
 
-By the end of this process each player should have a minimum of 42 cards from which to build a deck as described in the [following section](./drafting_guide.md#deck-buidling), however players should have some idea of the deck they are trying to make during drafting. This does not mean rigidly sticking to a predetermined deck idea, but instead attempting to pick cards with a common theme or goal as guided by the remainder of this document. 
+By the end of this process each player should have a minimum of 42 cards (+ any number of basic lands) from which to build a deck, however players should have some idea of the deck they are trying to make during drafting. This does not mean rigidly sticking to a predetermined deck idea, but instead attempting to pick cards with a common theme or goal as guided by the remainder of this document. 
 
 ## Deck Buidling
 
