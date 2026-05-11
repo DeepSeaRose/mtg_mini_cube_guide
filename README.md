@@ -10,7 +10,7 @@ If you just want a recap of the different draft archetypes, visit [this document
 Or browse the full cube in Archidekt following [this link](https://archidekt.com/decks/22490665/mini_starter_cube).
 
 # Referencing 
-References used in this repository follow the [Harvard Cite Them Right](https://www.citethemrightonline.com/category-list?docid=CTRHarvard) style, utilising in-text citations and a full reference list provided in [this document](./docs/refs.md). All card images will reference the artist, Wizards of the Coast for design, and Sryfall (as all images have been taken from this site).
+References used in this repository follow the [Harvard Cite Them Right](https://www.citethemrightonline.com/category-list?docid=CTRHarvard) style, utilising in-text citations and a full reference list provided in [this document](./docs/refs.md). All card images will reference the artist, Wizards of the Coast for design, and Scryfall (as all images have been taken from this site).
 
 I would also like to credit Finnegan (2024;2025;2026) for their work on many pre-release guides - which have heavily influenced this documentation. 
 
@@ -24,6 +24,6 @@ f: *The rift remained open for days, sluicing ancient seawater. It closed only a
 pt:6/6
 set: Time Spiral (TSP)
 ](./imgs/deep-sea_kraken.jpg)  
-(Moeller, Wizards of the Coast, scryfall, 2006)
+(Moeller, Wizards of the Coast, Scryfall, 2006)
 
 Happy Drafting!
