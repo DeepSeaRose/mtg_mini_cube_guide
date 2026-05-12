@@ -46,6 +46,7 @@ set: Murders at Karlov Manor (MKM)"
 >
 <br>
 (Graciano, Wizards of the Coast, and Scryfall, 2024)
+<br>
 </div>
 
 <div style="width:30%;margin-left:1%;float:inherit;">
@@ -60,6 +61,7 @@ set: Magic 2014 (M14)"
 >
 <br>
 (Kieryluk, Wizards of the Coast, and Scryfall, 2013)
+<br>
 </div>
 
 <div style="width:30%;margin-left:1%;float:inherit;">
@@ -74,6 +76,7 @@ set: Planechase Anthology (PCA)"
 >
 <br>
 (Kopinski, Wizards of the Coast, and Scryfall, 2016)
+<br>
 </div>
 
 </div>
@@ -99,6 +102,7 @@ set: Magic 2012 (M12)"
 >
 <br>
 (Chippy, Wizards of the Coast, and Scryfall, 2011)
+<br>
 </div>
 
 <div style="width:30%;margin-left:1%;float:inherit;">
@@ -113,6 +117,7 @@ set: Magic 2014 (M14)"
 >
 <br>
 (Bliss, Wizards of the Coast, and Scryfall, 2013)
+<br>
 </div>
 
 <div style="width:30%;margin-left:1%;float:inherit;">
@@ -126,6 +131,7 @@ set: Magic 2014 (M14)"
 >
 <br>
 (Ellis, Wizards of the Coast, and Scryfall, 2013)
+<br>
 </div>
 
 </div>
@@ -153,6 +159,7 @@ set: Magic 2014 (M14)"
 >
 <br>
 (Burt, Wizards of the Coast, and Scryfall, 2013)
+<br>
 </div>
 
 <div style="width:30%;margin-left:1%;float:inherit;">
@@ -168,6 +175,7 @@ set: Ixalan (XLN)"
 >
 <br>
 (Miller, Wizards of the Coast, and Scryfall, 2017)
+<br>
 </div>
 
 <div style="width:30%;margin-left:1%;float:inherit;">
@@ -182,6 +190,7 @@ set: Strixhaven: School of Mages (STX)"
 >
 <br>
 (Stewart, Wizards of the Coast, and Scryfall, 2021)
+<br>
 </div>  
 
 </div>
