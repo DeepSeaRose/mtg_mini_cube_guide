@@ -156,7 +156,7 @@ set: Magic 2014 (M14)"
 </div>
 
 <div style="width:30%;margin-left:1%;float:inherit;">
-<img src="../imgs/prying-blade.jpg" style="white-space:pre;"
+<img src="../imgs/prying_blade.jpg" style="white-space:pre;"
 alt="n:Prying Blade
 m:{1}
 t:Artifact — Equipment
@@ -210,3 +210,6 @@ and 17 lands!](../imgs/mana_curve.jpg)
 (Finnegan, 2025)
 
 ## Draft Archetypes
+While most decks constructed from the [Mini Starter Cube](https://archidekt.com/decks/22490665/mini_starter_cube) will be trying to win by reducing your opponents life total to 0, the exact approach to this will be determined by you as player/builder. Will you attempt to create an aggro deck using low cost damage and creatures to overwhelm your opponent as quickly as possible? Will you create a control deck, carefully countering your opponent until you can cast your big finishers? Or maybe you will create a mid-range deck: something in-between the former options? 
+
+The decision is ultimately up to you, and the cube is designed so that cards have a lot of overlap between different strategies enabling creativity. However if you are unsure where to start each 2 colour paring has a suggested archetypes in [this document](./draft_archetypes.md).
