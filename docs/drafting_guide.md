@@ -189,7 +189,7 @@ set: Strixhaven: School of Mages (STX)"
 </details> 
 
 ### Deck Construction 
-Equipped with a better understanding of what are the important cards in drafting (and hopefully a pile of selected cards) you may now want to understand how to construct the selected cards into a 40 card deck ready for play. There is two things to consider when doing this, firstly a general outline of your deck which should contain: 
+Equipped with a better understanding of what the important cards are in drafting (and hopefully a pile of selected cards) you may now want to understand how to construct the selected cards into a 40 card deck ready for play. There is two things to consider when doing this, firstly a general outline of your deck which should contain: 
 - 16-18 Threats 
 - 3-4 Removals 
 - 2-3 Value cards
@@ -197,7 +197,7 @@ Equipped with a better understanding of what are the important cards in drafting
 
 This is only a rough outline to guide new players, so don't be afraid to stray if you're confident in your strategy!
 
-The second thing to consider is the mana curve, this is the distrubtion of mana values within your deck, and helps to ensure you have a card to play each turn (MTG Wiki, 2025b; Verhey, 2017). While there is a lot of math and stratergising behind this, new players can follow the following guide for deck construction: 
+The second thing to consider is the mana curve, this is the distribution of mana values within your deck, and helps ensure you have a card to play each turn (MTG Wiki, 2025b; Verhey, 2017). While there's a lot of maths and strategising behind this, new players can follow the below guide for deck construction: 
 
 ![
 1 Mana: 1–2 cards
