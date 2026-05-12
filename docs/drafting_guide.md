@@ -15,8 +15,7 @@ The [Mini Starter Cube](https://archidekt.com/decks/22490665/mini_starter_cube) 
 By the end of this process each player should have a minimum of 42 cards (+ any number of basic lands) from which to build a 40 card deck, however players should have some idea of the deck they are trying to make during drafting. This does not mean rigidly sticking to a predetermined deck idea, but instead attempting to pick cards with a common theme or goal as guided by the remainder of this document. 
 
 ## Deck Building
-With a basic understanding of what draft is you may now want a better understanding of deck construction and further guidance on what individual cards to pick, enabling you to create viable deck for play. This section will provide some general drafting tips, as well as more specific guidance reliant to the [Mini Starter Cube](https://archidekt.com/decks/22490665/mini_starter_cube). 
-
+With a basic understanding of what draft is you may now want a better understanding of deck construction and further guidance on what individual cards to pick, enabling you to create viable deck for play. This section will provide some general drafting tips, as well as more specific guidance relevant to the [Mini Starter Cube](https://archidekt.com/decks/22490665/mini_starter_cube). 
 
 ### Choosing your Colours
 One of the first decisions you will have to make when drafting is selecting the colours of your deck. While this will be heavily determined by your first couple of card choices as guided by the advice in the remainder of this section, it might be useful to have some understanding of what you should be building towards. The [Mini Starter Cube](https://archidekt.com/decks/22490665/mini_starter_cube) is built with two coloured decks in mind and it is recommended first time players stick to this approach - however don't worry too much if you have to pivot, colour parings were created with overlap in mind and it is more important to stay flexible when drafting than it is to create the "perfect" deck.
@@ -45,6 +44,7 @@ f: **
 pt:6/6
 set: Murders at Karlov Manor (MKM)" 
 >
+<br>
 (Graciano, Wizards of the Coast, and Scryfall, 2024)
 </div>
 
@@ -58,6 +58,7 @@ f: *Shepherds in Kalonia know it’s better to let sheep roam than have them be 
 pt:2/2
 set: Magic 2014 (M14)" 
 >
+<br>
 (Kieryluk, Wizards of the Coast, and Scryfall, 2013)
 </div>
 
@@ -71,6 +72,7 @@ f: *Those who raged most bitterly at the world in life are cursed to roam the ne
 pt:1/1
 set: Planechase Anthology (PCA)" 
 >
+<br>
 (Kopinski, Wizards of the Coast, and Scryfall, 2016)
 </div>
 
@@ -81,7 +83,7 @@ set: Planechase Anthology (PCA)"
 <details style="width:100%;float:none;">
 <summary>Removal</summary>
 <p>
-Removal is how you responded to your opponents threats to prevent them from winning (Duke, 2014; Finnegan, 2025; MTG Wiki, 2026c), for example killing your opponents huge dragon with a cheap destroy spell such as Doom Blade. Each colour handles removal differently and some are better than others, however within the <a src="https://archidekt.com/decks/22490665/mini_starter_cube">Mini Starter Cube</a> all colours have fairly even access to removal. Removal is more important for slower decks, although all decks should include a reasonable amount, general guidance is 2-3 (schaab214, 2021). 
+Removal is how you responded to your opponents threats to prevent them from winning (Duke, 2014; Finnegan, 2025; MTG Wiki, 2026c), for example killing your opponents huge dragon with a cheap destroy spell such as Doom Blade. Each colour handles removal differently and some are better than others, however within the <a src="https://archidekt.com/decks/22490665/mini_starter_cube">Mini Starter Cube</a> all colours have fairly even access to removal. Removal is more important for slower decks, although all decks should include a reasonable amount, general guidance is 3-4 (schaab214, 2021). 
 </p>
 
 <div style="width:100%;margin-bottom:1%;float:left;">
@@ -95,6 +97,7 @@ o:Destroy target nonblack creature.
 f: **
 set: Magic 2012 (M12)" 
 >
+<br>
 (Chippy, Wizards of the Coast, and Scryfall, 2011)
 </div>
 
@@ -108,6 +111,7 @@ Enchanted creature can’t attack or block.
 f: *For the first time in his life, Grakk felt a little warm and fuzzy inside.*
 set: Magic 2014 (M14)" 
 >
+<br>
 (Bliss, Wizards of the Coast, and Scryfall, 2013)
 </div>
 
@@ -120,6 +124,7 @@ o:Return target nonland permanent to its owner’s hand.
 f: *Gryffid found his way home and resumed life as best he could, constantly hiding his newfound fear of clouds.*
 set: Magic 2014 (M14)" 
 >
+<br>
 (Ellis, Wizards of the Coast, and Scryfall, 2013)
 </div>
 
@@ -130,7 +135,7 @@ set: Magic 2014 (M14)"
 <details style="width:100%;float:none;">
 <summary>Value</summary>
 <p>
-Value cards help you cast other your other cards, either by drawing them sooner or giving you more mana to cast them. As with other categories the amount value cards needed will be dependent on the deck you are trying to make, if you aim to cast many spells with in a turn you might need to draw more cards to keep up card advantage or if your trying to cast big creatures you may need more mana to actually get them out. You might find it difficult to fit these 'value' cards into your very limited 40 card dark, however note that cards can fit into multiple categories: cards such as Elvish Mystic are both creatures that can threaten your opponents life total and value engines providing extra mana.
+Value cards help you play your other cards, either by drawing them sooner or giving you more mana to cast them. As with other categories the number of value cards needed will be dependent on the deck you are trying to make, if you aim to cast many spells with in a turn you might need to more card draw to keep your hand full or if you're trying to cast big creatures you may need more mana to actually get them out. You might find it difficult to fit these 'value' cards into your very limited 40 card dark, however note that cards can fit into multiple categories: cards such as Elvish Mystic are both creatures that can threaten your opponents life total and value engines providing extra mana.
 </p>
 
 <div style="width:100%;margin-bottom:1%;float:left;">
@@ -146,6 +151,7 @@ f: *“Life grows everywhere. My kin merely find those places where it grows str
 pt:1/1
 set: Magic 2014 (M14)" 
 >
+<br>
 (Burt, Wizards of the Coast, and Scryfall, 2013)
 </div>
 
@@ -160,6 +166,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 f: **
 set: Ixalan (XLN)" 
 >
+<br>
 (Miller, Wizards of the Coast, and Scryfall, 2017)
 </div>
 
@@ -173,6 +180,7 @@ Learn. (You may reveal a Lesson card you own from outside the game and put it in
 f: *“Today is hydromancy? I thought it was amplimancy! I studied for amplimancy!”*
 set: Strixhaven: School of Mages (STX)" 
 >
+<br>
 (Stewart, Wizards of the Coast, and Scryfall, 2021)
 </div>  
 
