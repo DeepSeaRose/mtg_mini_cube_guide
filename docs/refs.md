@@ -25,7 +25,9 @@ Miller, A., Wizards of the Coast, and Scryfall (2017) *Prying Blade* Available a
 
 Moeller, C., Wizards of the Coast, and Scryfall (2006) *Deep-Sea Kraken* Available at: https://scryfall.com/card/tsp/56/deep-sea-kraken (Accessed: 11 May 2026)
 
-MTG Wiki (2025) *Draft* Available at: https://mtg.wiki/page/Draft (Accessed: 11 May 2026)
+MTG Wiki (2025a) *Draft* Available at: https://mtg.wiki/page/Draft (Accessed: 11 May 2026)
+
+MTG Wiki (2025b) *Mana curve* Available at: https://mtg.wiki/page/Mana_curve (Accessed: 12 May 2026)
 
 MTG Wiki (2026a) *Cube Draft* Available at: https://mtg.wiki/page/Cube_Draft (Accessed: 11 May 2026)
 
@@ -46,3 +48,5 @@ Wizards of the Coast (2026a) *How to Play Magic: The Gathering*  Available at: h
 Wizards of the Coast (2026b) *Booster Draft*  Available at: https://magic.wizards.com/en/formats/booster-draft (Accessed: 11 May 2026)
 
 Wizards of the Coast (2026c) *Pick-Two Draft*  Available at: https://magic.wizards.com/en/formats/pick-two-draft (Accessed: 11 May 2026)
+
+Verhey, G. (2017) *How to Build a Mana Curve*. Available at: https://magic.wizards.com/en/news/feature/how-build-mana-curve-2017-05-18 (Accessed: 12 May 2026)

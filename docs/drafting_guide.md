@@ -5,7 +5,7 @@ Drafting can be a daunting proposition for any new Magic player, having to learn
 The rest of this guide will walk players through exactly what to expect from the cube, explaining what drafting is, providing deck building tips, and describing the archetypes present. Please note however this is not a guide on how to actually play Magic, this resource focuses entirely on the drafting components present before actual play. For resources on actual play I would recommend [Wizards of the Coast's (2026a) How to Play? guide](https://magic.wizards.com/en/how-to-play).
 
 ## What is Drafting? 
-Draft is a term that broadly covers many Magic formats in which players create decks by taking turns selecting cards from a collective pool (MTG Wiki, 2025; Tolarian Community College, 2017). This collective pool might be a set number of purchased 'boosters' as is the case with Booster Draft or the more recently created Pick-Two Draft (Wizards of the Coast, 2026b; Wizards of the Coast, 2026c), however some players have created their own collections of cards to draft from, known as 'cubes' (MTG Wiki, 2026a; Tolarian Community College, 2023).
+Draft is a term that broadly covers many Magic formats in which players create decks by taking turns selecting cards from a collective pool (MTG Wiki, 2025a; Tolarian Community College, 2017). This collective pool might be a set number of purchased 'boosters' as is the case with Booster Draft or the more recently created Pick-Two Draft (Wizards of the Coast, 2026b; Wizards of the Coast, 2026c), however some players have created their own collections of cards to draft from, known as 'cubes' (MTG Wiki, 2026a; Tolarian Community College, 2023).
 
 The [Mini Starter Cube](https://archidekt.com/decks/22490665/mini_starter_cube) is one such example. It is a comparatively small cube (hence 'mini') suggested for no more than 4 players. Whilst any rule-set might be used to draft the cube, the Pick-Two Draft (Wizards of the Coast, 2026c) approach is recommended, explained with the following points: 
 1. Each player should receive 14 randomly selected cards from the cube. 
@@ -189,6 +189,24 @@ set: Strixhaven: School of Mages (STX)"
 </details> 
 
 ### Deck Construction 
+Equipped with a better understanding of what the important cards are in drafting (and hopefully a pile of selected cards) you may now want to understand how to construct the selected cards into a 40 card deck ready for play. There is two things to consider when doing this, firstly a general outline of your deck which should contain: 
+- 16-18 Threats 
+- 3-4 Removals 
+- 2-3 Value cards
+- 16-18 lands (players will have an unlimited number of basic land cards available for deck construction, although may want to look out for some non-basics when drafting)
 
+This is only a rough outline to guide new players, so don't be afraid to stray if you're confident in your strategy!
+
+The second thing to consider is the mana curve, this is the distribution of mana values within your deck, and helps ensure you have a card to play each turn (MTG Wiki, 2025b; Verhey, 2017). While there's a lot of maths and strategising behind this, new players can follow the below guide for deck construction: 
+
+![
+1 Mana: 1–2 cards
+2 Mana: 7–8 cards
+3 Mana: 5–6 cards
+4 Mana: 3–4 cards
+5 Mana: 2–3 cards
+6 Mana: 0–1 card
+and 17 lands!](../imgs/mana_curve.jpg)
+(Finnegan, 2025)
 
 ## Draft Archetypes
