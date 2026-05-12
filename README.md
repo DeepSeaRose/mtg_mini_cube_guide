@@ -24,6 +24,6 @@ f: *The rift remained open for days, sluicing ancient seawater. It closed only a
 pt:6/6
 set: Time Spiral (TSP)
 ](./imgs/deep-sea_kraken.jpg)  
-(Moeller, Wizards of the Coast, Scryfall, 2006)
+(Moeller, Wizards of the Coast, and Scryfall, 2006)
 
 Happy Drafting!
