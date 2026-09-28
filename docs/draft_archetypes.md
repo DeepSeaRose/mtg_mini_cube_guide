@@ -59,7 +59,7 @@ set: Aetherdrift (DFT)"
 </details>
 
 <details style="width:100%;float:none;">
-<summary>Black/Red Sacrifices</summary>
+<summary>Black/Red Sacrifice</summary>
 
 <p>
 Take on the persona of a maniacal villain, thoughtlessly sacrificing your own minions for personal gain! 
