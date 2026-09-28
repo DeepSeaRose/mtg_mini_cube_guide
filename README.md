@@ -1,5 +1,5 @@
 # MTG Mini cube Guide
-This repository helps guide players through the draft experience of my [MTG Mini cube!](https://archidekt.com/decks/22490665/mini_starter_cube) A small cube designed for four players, mostly created from cards I already owned.
+This repository helps guide players through the draft experience of my [MTG Mini cube!][mini_starter_cube] A small cube designed for four players, mostly created from cards I already owned.
 
 It is recommended you visit [the drafting guide](./docs/drafting_guide.md) as a starting point
 
@@ -7,7 +7,7 @@ Alternatively
 
 If you just want a recap of the different draft archetypes, visit [this document](./docs/draft_archetypes.md).
 
-Or browse the full cube in Archidekt following [this link](https://archidekt.com/decks/22490665/mini_starter_cube).
+Or browse the full cube in Archidekt following [this link][mini_starter_cube].
 
 # Referencing 
 References used in this repository follow the [Harvard Cite Them Right](https://www.citethemrightonline.com/category-list?docid=CTRHarvard) style, utilising in-text citations and a full reference list provided in [this document](./docs/refs.md). All card images will reference the artist, Wizards of the Coast for design, and Scryfall (as all images have been taken from this site).
@@ -27,3 +27,6 @@ set: Time Spiral (TSP)
 (Moeller, Wizards of the Coast, and Scryfall, 2006)
 
 Happy Drafting!
+
+<!-- Links -->
+[mini_starter_cube]: https://archidekt.com/decks/22490665/mini_starter_cube
